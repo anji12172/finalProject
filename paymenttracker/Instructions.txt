@@ -1,0 +1,11 @@
+1.admin: nizam
+  pwd: 1234
+
+2.find the database file >paymenttracker
+				>Paymenttracker-DB
+					> 127_0_01(11).sql 
+
+3. the database doesnt have any password so keep it blank
+
+----Thank You---------------------
+		
